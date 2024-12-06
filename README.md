@@ -1,5 +1,7 @@
 # 🌟 GPortal: Employee & Department Management System
 
+## Please refer to ScreenShots folder for demo
+
 Welcome to GPortal – a dynamic web application for managing employees and departments effortlessly! Whether you're adding employees, assigning them to departments, or organizing your data, GPortal has got you covered. 🚀
 
 ## 🛠️ Technologies Used
