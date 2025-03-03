@@ -93,9 +93,7 @@ Browse, update, or delete employees and departments seamlessly.
 <img width="1389" alt="employees" src="https://github.com/user-attachments/assets/9cb95d1f-14e7-451c-a0d7-2d9fd58e3d04" />
 --
 <img width="1461" alt="add_department" src="https://github.com/user-attachments/assets/044eac3c-e4da-44ee-af0e-dd33ddc1183e" />
---
 <img width="792" alt="database" src="https://github.com/user-attachments/assets/2564f792-1602-41c2-91ad-e9fd892fd9b5" />
-
 
 
 
